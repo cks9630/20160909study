@@ -92,6 +92,7 @@ body {
 
 h1 {
   font-size: 64px;
+  font-weight: bold;
   color: #fc9fff;
   line-height: 100%;
   text-align: center; }
