@@ -73,16 +73,3 @@ ul, ol {
   letter-spacing: -0.4em; }
   ul li, ol li {
     letter-spacing: normal; }
-
-body {
-  background: #CCC; }
-
-h1 {
-  background-image: url(../css/sprite/sprite.png);
-  background-position: 0px 0px;
-  width: 538px;
-  height: 150px;
-  overflow: hidden;
-  text-indent: 100%;
-  white-space: nowrap;
-  margin: 3em auto; }
